@@ -1,0 +1,16 @@
+{
+  "name": "codetrainer",
+  "version": "1.0.0",
+  "description": "Premier bot test ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "BastienB",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "node": "^18.20.0"
+  }
+}
